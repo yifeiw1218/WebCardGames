@@ -32,11 +32,11 @@ We utilized a set of APIs that allow us to draw decks of poker cards, shuffle, a
 
 ### Yifei Wang
 **Current Stage**
-1. something 1
+1. Achieve the basic function of blackjack in C++
 2. something 2
 
 **Plan to do**
-1. something 1
+1. Rewrite the balckjack in MVP
 2. something 2
 
 ###  Ziyu Tang
